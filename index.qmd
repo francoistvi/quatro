@@ -1,10 +1,13 @@
 ---
-title: "About Me"
+title: "My Personnal Bio"
 about:
   id: me
-  template: broadside
+  template: trestles
   image: img/profile.png
+  image-shape: round
+  image-width: 15em
 ---
+
 
 :::{#me}
 
@@ -13,6 +16,8 @@ about:
 ## Education
 
 ## Experience
+
+## Philopsohy
 
 :::
 

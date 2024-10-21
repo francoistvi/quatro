@@ -16,8 +16,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "My Personnal Bio",
     "section": "",
     "text": "Thanks for checking out my web site!"
+  },
+  {
+    "objectID": "philosophy.html#project-2",
+    "href": "philosophy.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "philosophy.html#project-3",
+    "href": "philosophy.html#project-3",
+    "title": "Projects",
+    "section": "Project 3",
+    "text": "Project 3"
   }
 ]
